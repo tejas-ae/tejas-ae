@@ -43,7 +43,7 @@ Merged patches across production codebases used by thousands of developers :
 | Project | Stack | Description |
 |---|---|---|
 | [**Confidential ML Feature Store**](https://github.com/tejasae-afk/confidential-ml-feature-store) | Python · FastAPI · Nitro Enclaves · KMS · DynamoDB | Hardware-isolated multi-tenant inference with attestation-gated key release and vsock RPC. Secrets never leave the enclave. |
-| [**Multi-Cloud Kubernetes Platform**](https://github.com/tejasae-afk/Multi-Cloud-Kubernetes-Platform-AKS-GKE) | Kubernetes · GKE · AKS · Terraform · Helm | Production-grade platform spanning GCP and Azure — unified ingress, autoscaling, RBAC, and GitOps-ready manifests. |
+| [**AI Multi-Cloud Kubernetes Platform**](https://github.com/tejas-ae/AI-Multi-Cloud-K8s) | Kubernetes · GKE · AKS · Terraform · Helm | Production-grade platform spanning GCP and Azure — unified ingress, autoscaling, RBAC, and GitOps. |
 
 ---
 

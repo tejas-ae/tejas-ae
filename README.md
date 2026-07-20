@@ -46,25 +46,3 @@ Merged patches across production codebases used by thousands of developers :
 | [**AI Multi-Cloud Kubernetes Platform**](https://github.com/tejas-ae/AI-Multi-Cloud-K8s) | Kubernetes · GKE · AKS · Terraform · Helm | Production-grade platform spanning GCP and Azure — unified ingress, autoscaling, RBAC, and GitOps. |
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<table style="border-collapse: collapse;">
-<tr>
-
-<td align="center" style="padding: 8px;">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tejas-ae&theme=dark&hide_border=true" height="170"/>
-</td>
-
-<td align="center" style="padding: 8px;">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tejas-ae&theme=react-dark&hide_border=true&area=true" width="450" />
-</td>
-
-</tr>
-</table>
-
-</div>
-
----

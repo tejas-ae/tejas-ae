@@ -31,7 +31,7 @@ Merged patches across production codebases used by thousands of developers :
 - 🏆 **[Google Cloud – Professional Cloud Architect](https://www.credly.com/badges/8b87bc8d-a50f-474c-99e0-3e6d25db35cf)** — issued by Google Cloud
 - 🏆 **[AWS Certified Solutions Architect – Professional](https://www.credly.com/badges/fdbcc9bf-fd58-427f-ab58-5f09c1e0b993)** — issued by Amazon Web Services
 - 🏆 **[AWS Certified Security – Specialty](https://www.credly.com/badges/668c5c56-41d0-4310-b4ea-cc1527a73ddd)** — issued by Amazon Web Services
-- 🏆 **[Microsoft Certified: Azure Administrator Associate](https://www.credly.com/badges/b16f1f5e-2f6f-464c-b2b9-f686b58e82b2)** — issued by Microsoft
+<!--- 🏆 **[Microsoft Certified: Azure Administrator Associate](https://www.credly.com/badges/b16f1f5e-2f6f-464c-b2b9-f686b58e82b2)** — issued by Microsoft -->
 - 🏆 **[Microsoft Certified: Azure AI Fundamentals](https://www.credly.com/badges/64a026d3-abb4-4004-8370-8d44d53b0fb9)** — issued by Microsoft
 - 🏆 **Microsoft Certified: Developer Associate** — issued by Microsoft
 - 🏆 **Microsoft Certified: DevOps Engineer Expert** — issued by Microsoft

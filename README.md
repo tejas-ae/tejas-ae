@@ -35,4 +35,3 @@ Merged patches across production codebases used by thousands of developers :
 - 🏆 **Microsoft Certified: Developer Associate** — issued by Microsoft
 - 🏆 **Microsoft Certified: DevOps Engineer Expert** — issued by Microsoft
 <!--- 🏆 **[Microsoft Certified: Azure Administrator Associate](https://www.credly.com/badges/b16f1f5e-2f6f-464c-b2b9-f686b58e82b2)** — issued by Microsoft -->
----

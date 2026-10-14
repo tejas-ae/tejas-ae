@@ -36,12 +36,3 @@ Merged patches across production codebases used by thousands of developers :
 - 🏆 **Microsoft Certified: DevOps Engineer Expert** — issued by Microsoft
 <!--- 🏆 **[Microsoft Certified: Azure Administrator Associate](https://www.credly.com/badges/b16f1f5e-2f6f-464c-b2b9-f686b58e82b2)** — issued by Microsoft -->
 ---
-
-### 🔥 Featured Projects
-
-| Project | Stack | Description |
-|---|---|---|
-| [**Confidential ML Feature Store**](https://github.com/tejasae-afk/confidential-ml-feature-store) | Python · FastAPI · Nitro Enclaves · KMS · DynamoDB | Hardware-isolated multi-tenant inference with attestation-gated key release and vsock RPC. Secrets never leave the enclave. |
-| [**AI Multi-Cloud Kubernetes Platform**](https://github.com/tejas-ae/AI-Multi-Cloud-K8s) | Kubernetes · GKE · AKS · Terraform · Helm | Production-grade platform spanning GCP and Azure — unified ingress, autoscaling, RBAC, and GitOps. |
-
----

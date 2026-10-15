@@ -8,7 +8,6 @@
 
 <p align="center">
   <strong>Software Engineer · Cloud Architect · MS CE @ NYU</strong><br/>
-  I build scalable backend systems, cloud-native infrastructure, and secure distributed services.
 </p>
 
 ### 🤝 Open Source Contributions
